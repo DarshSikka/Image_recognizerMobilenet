@@ -1,0 +1,77 @@
+.tred{
+    color:red;
+}
+.tblue{
+    color:blue;
+}
+.tgreen{
+    color:green;
+}
+.torange{
+    color:orange;
+}
+.tbrown{
+    color:brown;
+}
+.tblack{
+    color:black;
+}
+.tpink{
+    color:pink;
+}
+.tyellow{
+    color:yellow;
+}
+.bred{
+    background-color:red;
+}
+.bblue{
+    background-color:blue;
+}
+.bgreen{
+    background-color:green;
+}
+.borange{
+    background-color: orange;
+}
+.bbrown{
+    background-color:brown;
+}
+.bblack{
+    background-color:black;
+}
+.bpink{
+    background-color:pink;
+}
+.url{
+    color:blue;
+    text-decoration: underline;
+}
+.url:hover{
+    color:darkblue;
+}
+.circle{
+    border-radius:50px;
+}
+.twhite{
+    color:white;
+}
+.bwhite{
+    background-color: white;
+}
+.footer{
+    position:fixed;
+    width:100%;
+    z-index:99999;
+    background-image: linear-gradient(to right, white, whitesmoke);
+    background-repeat:3;
+    bottom:0;
+}
+.header{
+    position:fixed;
+    width:100%;
+    z-index:99999;
+    background-image: linear-gradient(to right, white, whitesmoke);
+    background-repeat:3;
+    top:0;
+}
